@@ -1,7 +1,7 @@
 # Work
 - [zkDocs](https://github.com/a16z/zkdocs)
-- [zk-airdrops](https://github.com/a16z/zkp-merkle-airdrop-contracts)
-- [Goerli / Sepolia facuet](github.com/a16z/eth-testnet-drop)
+- [zkAirdrops](https://github.com/a16z/zkp-merkle-airdrop-contracts)
+- [Goerli / Sepolia faucet](github.com/a16z/eth-testnet-drop)
 
-# Repos
+# Other
 - [Typescript Hardhat Template](https://github.com/sragss/ts-hh)
