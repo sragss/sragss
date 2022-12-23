@@ -5,3 +5,5 @@
 
 # Other
 - [Typescript Hardhat Template](https://github.com/sragss/ts-hh)
+- [danielmuseles.com](danielmuseles.com)
+- [aaroniyer.com](aaroniyer.com)
